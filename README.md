@@ -12,4 +12,5 @@ url : https://www.petsecure.com.au/pet-care/a-guide-to-worldwide-pet-ownership/
 - Mendapatkan data tabel headers (karena tabelnya tidak memiliki header, maka dibuatlah dictionary agar table memiliki header)
 - Membuat DataFrame dan ditampilkan
 - Menyimpan DataFrame menjadi file csv
-- Melakukan cleaning atau transformasi data 
+- Melakukan cleaning untuk menghilangkan baris kosong jika ada
+- Menyimpan data yang sudah di cleaning dalam bentuk file csv
