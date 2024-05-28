@@ -4,7 +4,7 @@ Project Day 48
 Melakukan web scraping 
 url : https://www.petsecure.com.au/pet-care/a-guide-to-worldwide-pet-ownership/
 
-- Import module yang dibutuhkan dengan bantuan import library yang dibutuhkan
+- Import module yang dibutuhkan dengan mengimport beberapa library yang diperlukan
 - Response html yang diakses dengan mengirim request ke halaman web dan memastikan request berhasil
 - Parse & print html dengan Bs4 (BeautifulSoup)
 - Mendapatkan tabel dari Bs4 dengan memilih salah satu table (menggunakan table bird)
